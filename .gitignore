@@ -1,0 +1,9 @@
+*.vcxproj
+*.mp3
+*.user
+*.filters
+*.vcxproj.filters
+*.vcproj.user
+x64/*
+x64/
+
