@@ -6,4 +6,4 @@
 *.vcproj.user
 x64/*
 x64/
-
+.gitignore
